@@ -32,6 +32,8 @@ Perulangan dowhile
 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitungumur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda  sesuai pilihan pekerjaan.
 
+Jawaban 
+
 Output:
 
 <img width="1920" height="1013" alt="Cuplikan layar 2025-11-10 135358" src="https://github.com/user-attachments/assets/e666e051-ad63-4abc-9bbb-cca12f73ba88" />
